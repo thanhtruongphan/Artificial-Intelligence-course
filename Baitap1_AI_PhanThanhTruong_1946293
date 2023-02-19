@@ -1,0 +1,48 @@
+Họ tên sinh viên: Phan Thanh Trường
+Mã số sinh viên : 19146293
+
+Bài tập ‘homework1’:
+
+1. There are different interpretations of artificial intelligence in different contexts. Please elaborate o the artificial intelligence in your eyes.
+- Theo tôi, trí tuệ nhân tạo là một dạng trí thông minh có thể học tập tương tự như cách bộ não con người học tập, đồng ý rằng nó sẽ chẳng thể nào hoàn hảo như bộ não con người, nó có nó có thể thực hiện giúp rất nhiều nhiệm vụ mang hiệu suất cao mà con người không làm được.
+
+2, Artificial intelligence, machine learning, deep learning are three concepts often mentioned together. what is the relationship between them? what are the similarities and differences between the three terms?
+- Trí tuệ nhân tạo sử dụng các chương trình máy tính để thực hiện quyền tự chủ cho mô hình dữ liệu và mô phỏng nhận thức và sự hiểu biết của con người. Học máy và deep learning là hai tập hợp con của AI, và là ứng dụng nâng cao của AI sử dụng các bộ dữ liệu rất rộng lớn để đào tạo máy tính cách đưa ra kết luận. 
+Điểm khác nhau:
+*AI :
++ Cho phép máy bắt chước hành vi con người qua những thuật toán đặc biệt
++ AI rộng hơn ML và DL 
++ AI có khả năng đưa ra quyết định 
++ gồm 3 loại AI 
+	+ artificial Narrow Intelligence(ANI)
+	+ artificial general Intelligence(AGI)
+	+ artificial Super Intelligence(ASI)
++ kết quả của AI dựa trên ML và DL
+* ML :
++ Bản chất của ML là sử dụng các phép toán thống kê cho phép máy liên tục cải thiện với kinh nghiệm từ việc học liên tục 
++ ML là con của AI 
++ cho phép hệ thống học hỏi từ dữ liệu 
++ gồm 3 loại 
+	+ supervised learning
+	+ unsupervised learning
+	+ reinforcement learning
+* DL : 
++ vai trò của DL giống như nơ-ron trong bộ não con người, để bắt chước chức năng giống như bộ não con người 
++ DL là con của ML 
++ gồm 4 mạng cơ bản kiến trú : 
+	+ unsupervised Pre-trained Networds
+	+ convolutional Neural Networks
+	+ Recurrent Neural Networks, 
+	+ Recursive Neural Networks
+
+3, After reading the artificial intelligence application scenarios in this chapter, please describe in detail a field of AI application and its scenarios in real life based on your own life experience.
+- Dễ nhận thấy trí tuệ nhân tạo đã-đang-và sẽ tiếp tục gắn càng ngày càng sâu vào cuộc sống của mỗi người chúng ta, hiện nay, dễ thấy hầu như con người giao tiếp với trí tuệ nhân tạo mỗi ngày.
+VD : trên thế giới hầu hết con người ai cũng sử dụng các thiết bị thông minh như điện thoại, laptop, tivi,... có chứa các ứng dụng sử dụng trí tuệ nhân tạo điển hình như Facebook, shoppee, youtube, tiktok... khi chúng ta xem một vài món hàng trên Shoppee thì 90% những món hàng đó sẽ xuất hiện lần nữa trên các app Facebook, ... Ai dùng tiktok có quan tâm đến nấu ăn thì newfeed tiktok của họ sẽ có rất nhiều video nấu ăn
+Ai quan tâm đến việc chạy bộ thì newfeed của họ sẽ xuất hiện rất nhiều video chạy bộ…
+
+4, Which chip is for deep neural networks and Ascend AI processors. Please brief these four major modules.
+- Chip Ascend 310, Ascend 910 are for deep neural networks and Ascend AI processors
+- 4 major modules : data retrieving, frame processing, summarizing data, and output to the database.
+
+5, Based on your current knowledge and understanding, please elaborate on the development trends of artificial intelligence in the future in your view.
+- Trí tuệ nhân tạo đã phát triển với tốc độ nhanh chóng mặt trong hơn 1 thập kỷ vừa qua, AI đã có những ứng dụng thực tế gắn liền với đời sống con người, áp dụng được trong tất cả mọi lĩnh vực của đời sống con người, từ những ứng dụng để phát triển kinh tế, những ứng dụng cho y tế, vi phẫu an toàn, đến trồng trọt, chăm sóc cây trồng và vật nuôi, ... đều có dấu chân của AI, chắc chắn trong tương lai, AI càng ngày càng gắn bó sâu sắc hơn với con người, những ứng dụng đã được triển khai sẽ càng thống minh hơn, những ý tưởng chưa thành hiện thực có thể sẽ thành hiện thực, như cấy chip vào não người- trờ thành một phần trong 'bộ vi xử lý của loài người', sẽ xuất hiện những con robot 'có đạo đức' và 'biết lý luận như con người',...
